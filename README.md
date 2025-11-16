@@ -267,8 +267,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](chandhna/softapp/static/res1.png)
-![alt text](chandhna/softapp/static/res2.png)
+<img width="1899" height="1003" alt="image" src="https://github.com/user-attachments/assets/4c13d4b5-9eac-4c9a-a9dd-4fb962205161" />
+<img width="1902" height="946" alt="image" src="https://github.com/user-attachments/assets/02e67be6-58d8-42be-b039-a214070de2e3" />
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
